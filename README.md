@@ -30,7 +30,7 @@ Welcome to the MemoryCard game, a color-matching memory challenge built as a tec
   - (Additional NuGet packages may be present; verify `csproj` file)
 - **Development Tools**:
   - .NET SDK (v6 or later recommended)
-  - Visual Studio or VS Code (for development)
+  - VS Code 
 - **Deployment Tool**: Fly.io
 
 ## How to Run the Project
