@@ -50,8 +50,5 @@ namespace ColourMemoryApi.Controllers
         }
     }
 
-    public class FlipRequest
-    {
-        public string? CardId { get; set; }
-    }
+  
 }

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ColourMemoryApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d29f216e0a3d27706d5d27882f77a58c3211f020")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47da0c003fe62911e7ae8ce34cd1b12d6baded6e")]
 [assembly: System.Reflection.AssemblyProductAttribute("ColourMemoryApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ColourMemoryApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
