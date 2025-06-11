@@ -42,8 +42,8 @@ Welcome to the MemoryCard game, a color-matching memory challenge built as a tec
     dotnet run
 
 ** Notes
-    Ensure the backend is running before the frontend, as the frontend makes API calls to http://localhost:5286/api/game/start and related endpoints.
-    Update gameLogic.ts to use the local backend URL if needed.
+    Ensure the backend is running before the frontend
+  
 
  **Clone the Repository**
    ```bash
