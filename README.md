@@ -5,7 +5,7 @@ Welcome to the MemoryCard game, a color-matching memory challenge built as a tec
 ## Project Overview
 - **Frontend**: A React application where players flip cards to match colors, track scores, and view game results.
 - **Backend**: A .NET Core API (`colourmemoryapi`) that manages game state, handles card flips, and stores game data.
-- **Deployment**: Intended for deployment on Fly.io, with options to use Vercel/Netlify for the frontend as a fallback.
+- **Deployment**:Fly.io use as a backend for deploy and Netlify use for frontend.
 ## Tools and Dependencies
 
 ### Frontend (`frontend` Directory)
@@ -20,7 +20,7 @@ Welcome to the MemoryCard game, a color-matching memory challenge built as a tec
 - **Development Tools**:
   - Node.js (v18 or later recommended)
   - npm (for package management)
-- **Deployment Tool**: Fly.io (with Paketo Buildpacks or Dockerfile), or alternatively Vercel/Netlify
+- **Deployment Tool**: Fly.io use as a backend for deploy and Netlify use for frontend.
 
 ### Backend (`backend/ColourMemoryApi` Directory)
 - **Framework**: .NET Core (ASP.NET Core)
@@ -47,5 +47,5 @@ Welcome to the MemoryCard game, a color-matching memory challenge built as a tec
 
  **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/MemoryCard.git
-   cd MemoryCard
+   git clone https://github.com/Lilikh/ColourMemory-Card.git
+ 
