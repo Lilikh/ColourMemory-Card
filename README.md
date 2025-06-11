@@ -5,7 +5,7 @@ Welcome to the MemoryCard game, a color-matching memory challenge built as a tec
 ## Project Overview
 - **Frontend**: A React application where players flip cards to match colors, track scores, and view game results.
 - **Backend**: A .NET Core API (`colourmemoryapi`) that manages game state, handles card flips, and stores game data.
-- **Deployment**: Intended for deployment on Fly.io, with options to use Netlify for the frontend as a fallback.
+- **Deployment**: Intended for deployment on Fly.io, with options to use Vercel/Netlify for the frontend as a fallback.
 ## Tools and Dependencies
 
 ### Frontend (`frontend` Directory)
@@ -20,7 +20,7 @@ Welcome to the MemoryCard game, a color-matching memory challenge built as a tec
 - **Development Tools**:
   - Node.js (v18 or later recommended)
   - npm (for package management)
-- **Deployment Tool**: Fly.io (with Paketo Buildpacks or Dockerfile), or alternatively Netlify
+- **Deployment Tool**: Fly.io (with Paketo Buildpacks or Dockerfile), or alternatively Vercel/Netlify
 
 ### Backend (`backend/ColourMemoryApi` Directory)
 - **Framework**: .NET Core (ASP.NET Core)
@@ -42,8 +42,8 @@ Welcome to the MemoryCard game, a color-matching memory challenge built as a tec
     dotnet run
 
 ** Notes
-    Ensure the backend is running before the frontend, 
-   
+    Ensure the backend is running before the frontend, as the frontend makes API calls to http://localhost:5286/api/game/start and related endpoints.
+    Update gameLogic.ts to use the local backend URL if needed.
 
  **Clone the Repository**
    ```bash

@@ -1,0 +1,147 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0;
+  padding: 16px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  max-width: 400px;
+  margin-bottom: 16px;
+  
+}
+
+.header p {
+  font-size: 1.2rem;
+  margin: 0;
+  color: white;
+  background-color: #2d3748;
+  padding: 8px 16px;
+  border-radius: 4px;
+}
+
+.header button {
+  padding: 8px 8px;
+  font-size: 1rem;
+  background-color: #106bac;
+  color: white;
+  border: #106bac solid 2px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.header button:hover {
+  background-color: #4299e1;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(4, 80px);
+  gap: 12px;
+  max-width: 400px;
+}
+
+.card {
+  width: 80px;
+  height: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 8px;
+  border: 2px solid #e2e8f0; 
+  cursor: pointer;
+  transition: transform 0.3s ease;
+  font-size: 0.75rem;
+  color: #000000; 
+  box-shadow: 0 2px 4px rgba(3, 4, 4, 0.1);
+  background-image: url('/public/images.jpeg');
+  background-size: cover; 
+  background-position: center; 
+  background-repeat: no-repeat; 
+}
+
+.card.flipped {
+  background-color: currentColor; 
+  background-image: none;
+}
+
+.card.matched {
+  background-color: currentColor; 
+  background-image: none; 
+  visibility: hidden; 
+}
+
+.card.hidden {
+  background-color: transparent;
+}
+
+.card.matched {
+  opacity: 0;
+}
+
+.game-over {
+  text-align: center;
+  background-color: #1e3254;
+  color: white;
+  padding: 40px 100px;
+  border-radius: 5px;
+  max-width: 300px;
+
+}
+
+.game-over h2 {
+  margin: 0 0 10px;
+}
+
+.game-over ul {
+  list-style: none;
+  padding: 0;
+}
+
+.game-over button {
+  padding: 8px 16px;
+  background-color: #63b3ed;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.game-over button:hover {
+  background-color: #4299e1;
+}
+.spinner-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(255, 255, 255, 0.7);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+}
+
+.spinner {
+  width: 60px;
+  height: 60px;
+  border: 6px solid #ccc;
+  border-top-color: #106bac;
+  border-radius: 50%;
+  animation: spin 0.8s linear infinite;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}

@@ -71,3 +71,37 @@
 /Users/ehsanpirehpour/Desktop/MemoryCard/backend/ColourMemoryApi/obj/Debug/net8.0/ColourMemoryApi.pdb
 /Users/ehsanpirehpour/Desktop/MemoryCard/backend/ColourMemoryApi/obj/Debug/net8.0/ColourMemoryApi.genruntimeconfig.cache
 /Users/ehsanpirehpour/Desktop/MemoryCard/backend/ColourMemoryApi/obj/Debug/net8.0/ref/ColourMemoryApi.dll
+/Users/ehsanpirehpour/Desktop/MemoryCard copy/backend/ColourMemoryApi/bin/Debug/net8.0/appsettings.Development.json
+/Users/ehsanpirehpour/Desktop/MemoryCard copy/backend/ColourMemoryApi/bin/Debug/net8.0/appsettings.json
+/Users/ehsanpirehpour/Desktop/MemoryCard copy/backend/ColourMemoryApi/bin/Debug/net8.0/ColourMemoryApi
+/Users/ehsanpirehpour/Desktop/MemoryCard copy/backend/ColourMemoryApi/bin/Debug/net8.0/ColourMemoryApi.deps.json
+/Users/ehsanpirehpour/Desktop/MemoryCard copy/backend/ColourMemoryApi/bin/Debug/net8.0/ColourMemoryApi.runtimeconfig.json
+/Users/ehsanpirehpour/Desktop/MemoryCard copy/backend/ColourMemoryApi/bin/Debug/net8.0/ColourMemoryApi.dll
+/Users/ehsanpirehpour/Desktop/MemoryCard copy/backend/ColourMemoryApi/bin/Debug/net8.0/ColourMemoryApi.pdb
+/Users/ehsanpirehpour/Desktop/MemoryCard copy/backend/ColourMemoryApi/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/ehsanpirehpour/Desktop/MemoryCard copy/backend/ColourMemoryApi/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/ehsanpirehpour/Desktop/MemoryCard copy/backend/ColourMemoryApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/ehsanpirehpour/Desktop/MemoryCard copy/backend/ColourMemoryApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/ehsanpirehpour/Desktop/MemoryCard copy/backend/ColourMemoryApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/ehsanpirehpour/Desktop/MemoryCard copy/backend/ColourMemoryApi/obj/Debug/net8.0/ColourMemoryApi.csproj.AssemblyReference.cache
+/Users/ehsanpirehpour/Desktop/MemoryCard copy/backend/ColourMemoryApi/obj/Debug/net8.0/ColourMemoryApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ehsanpirehpour/Desktop/MemoryCard copy/backend/ColourMemoryApi/obj/Debug/net8.0/ColourMemoryApi.AssemblyInfoInputs.cache
+/Users/ehsanpirehpour/Desktop/MemoryCard copy/backend/ColourMemoryApi/obj/Debug/net8.0/ColourMemoryApi.AssemblyInfo.cs
+/Users/ehsanpirehpour/Desktop/MemoryCard copy/backend/ColourMemoryApi/obj/Debug/net8.0/ColourMemoryApi.csproj.CoreCompileInputs.cache
+/Users/ehsanpirehpour/Desktop/MemoryCard copy/backend/ColourMemoryApi/obj/Debug/net8.0/ColourMemoryApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/ehsanpirehpour/Desktop/MemoryCard copy/backend/ColourMemoryApi/obj/Debug/net8.0/ColourMemoryApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/ehsanpirehpour/Desktop/MemoryCard copy/backend/ColourMemoryApi/obj/Debug/net8.0/ColourMemoryApi.sourcelink.json
+/Users/ehsanpirehpour/Desktop/MemoryCard copy/backend/ColourMemoryApi/obj/Debug/net8.0/staticwebassets.build.json
+/Users/ehsanpirehpour/Desktop/MemoryCard copy/backend/ColourMemoryApi/obj/Debug/net8.0/staticwebassets.development.json
+/Users/ehsanpirehpour/Desktop/MemoryCard copy/backend/ColourMemoryApi/obj/Debug/net8.0/staticwebassets/msbuild.ColourMemoryApi.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/ehsanpirehpour/Desktop/MemoryCard copy/backend/ColourMemoryApi/obj/Debug/net8.0/staticwebassets/msbuild.build.ColourMemoryApi.props
+/Users/ehsanpirehpour/Desktop/MemoryCard copy/backend/ColourMemoryApi/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ColourMemoryApi.props
+/Users/ehsanpirehpour/Desktop/MemoryCard copy/backend/ColourMemoryApi/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ColourMemoryApi.props
+/Users/ehsanpirehpour/Desktop/MemoryCard copy/backend/ColourMemoryApi/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/ehsanpirehpour/Desktop/MemoryCard copy/backend/ColourMemoryApi/obj/Debug/net8.0/scopedcss/bundle/ColourMemoryApi.styles.css
+/Users/ehsanpirehpour/Desktop/MemoryCard copy/backend/ColourMemoryApi/obj/Debug/net8.0/ColourMe.4D989F75.Up2Date
+/Users/ehsanpirehpour/Desktop/MemoryCard copy/backend/ColourMemoryApi/obj/Debug/net8.0/ColourMemoryApi.dll
+/Users/ehsanpirehpour/Desktop/MemoryCard copy/backend/ColourMemoryApi/obj/Debug/net8.0/refint/ColourMemoryApi.dll
+/Users/ehsanpirehpour/Desktop/MemoryCard copy/backend/ColourMemoryApi/obj/Debug/net8.0/ColourMemoryApi.pdb
+/Users/ehsanpirehpour/Desktop/MemoryCard copy/backend/ColourMemoryApi/obj/Debug/net8.0/ColourMemoryApi.genruntimeconfig.cache
+/Users/ehsanpirehpour/Desktop/MemoryCard copy/backend/ColourMemoryApi/obj/Debug/net8.0/ref/ColourMemoryApi.dll
