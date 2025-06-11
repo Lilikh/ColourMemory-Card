@@ -465,11 +465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ehsanpirehpour/Desktop/MemoryCard copy/backend/ColourMemoryApi/ColourMemoryApi.csproj",
+      "projectUniqueName": "/Users/ehsanpirehpour/Desktop/MemoryCard Play 2/backend/ColourMemoryApi/ColourMemoryApi.csproj",
       "projectName": "ColourMemoryApi",
-      "projectPath": "/Users/ehsanpirehpour/Desktop/MemoryCard copy/backend/ColourMemoryApi/ColourMemoryApi.csproj",
+      "projectPath": "/Users/ehsanpirehpour/Desktop/MemoryCard Play 2/backend/ColourMemoryApi/ColourMemoryApi.csproj",
       "packagesPath": "/Users/ehsanpirehpour/.nuget/packages/",
-      "outputPath": "/Users/ehsanpirehpour/Desktop/MemoryCard copy/backend/ColourMemoryApi/obj/",
+      "outputPath": "/Users/ehsanpirehpour/Desktop/MemoryCard Play 2/backend/ColourMemoryApi/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ehsanpirehpour/.nuget/NuGet/NuGet.Config"

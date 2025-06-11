@@ -22,7 +22,7 @@ export const startGame = async (
     setIsLocked(false);
   } catch (error) {
     console.error('Error starting game:', error);
-    setError('Failed to start game. Check backend and CORS settings.');
+   
   } finally {
     setIsLoading?.(false); 
   }
